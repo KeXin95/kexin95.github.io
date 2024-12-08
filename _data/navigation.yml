@@ -3,9 +3,9 @@ main:
   - title: "Projects"
     url: /projects/
   - title: "Blog"
-    url: /blog/
+    url: https://medium.com/@k.x.chong95
   - title: "About"
-    url: https://rafaelcartenet.github.io
+    url: https://kexin95.github.io
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Collections"
