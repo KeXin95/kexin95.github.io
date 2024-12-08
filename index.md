@@ -2,7 +2,7 @@
 title: 'Chong Ke Xin'
 layout: single
 author_profile: true
-excerpt: 'Risk Data Scientist. Exploring new career opportunities.'
+excerpt: 'Risk Data Scientist | Exploring Opportunities to Learn and Contribute'
 header:
   overlay_image: /images/bg.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -10,42 +10,34 @@ header:
 
 # About me
 
-I'm currently working remotely for [Xco-Analytics](https://www.colonnagroup.fr/xco-analytics/) in Shanghai, as a full-time **Lead Data Engineer**, since February 2021.
+I'm a highly motivated and self-disciplined learner currently pursuing a **Master of Science in Computer Science (MSCS) at Georgia Institute of Technology**, specializing in **Machine Learning**. I am actively exploring research opportunities where I can learn, grow, and contribute meaningfully while building on my existing skills. My interests include applying machine learning models to mitigate financial risk, create insightful data visualizations, and develop explainable AI solutions.
 
 ---
-
-*As a problem-solving enthusiast, I have always been eager to meet new technical challenges, where I can learn some new things and feed my curiosity.  
-I got myself into Data Science early in my education and had the chance to get my hands on all kinds of data, from sequential to spatial, images, audio signals, BI data etc.  
-As an R&D Engineer, I love to put forward my technical and analytical skills, tackle original problems and learn every day.*
-
-You can check about my different projects on my [projects page](https://rafaelcartenet.github.io/projects/)
 
 ## Previous work experiences
 
 - **Machine Learning R&D Engineer** - Shanghai:  
   I completed my end-of-study internship in Shanghai as a Machine Learning R&D Engineer for a sino-french startup called **[Mediasia-Labs](http://mediasia-labs.com)**. I have been working on *Deep-Learning* and *Advanced Algorithms* applied to Pronunciation Evaluation for language learners.
 
-- **Research Assistant** - Daejon (South-Korea):  
-  I have been a volunteer in a Research Laboratory dedicated to Artificial Intelligence **[AIM](http://slsp.kaist.ac.kr/xe/)** where I worked on video classification for the CVPR2017 workshop, especially working on *Attention Gated LSTM Cell*, in TensorFlow.
-
-- **Software Engineer Intern** - Paris:  
-  I have been an intern at **[Aerow](https://www.aerow.group/en/home/)** in Paris, as a Software Engineer and integrator. I have been developing a simple OCR for bankcheques CMC7 code, using simple *Machine-Learning* techniques.
 
 ## Education
 
-- **Graduate Exchange Program** - Daejeon (South-Korea):  
-  I studied abroad for a year in the top university of KAIST in South-Korea, where I specialized in *Machine-Learning*. I completed my initial background with skills in *Deep-Learning*, NLP, Computer Vision as well as Search-Based Algorithms.
+- Georgia Tech, Atlanta (Jan 2015 – Present):  
+  Current student in **Master of Science in Computer Science (MSCS)**, Specialization in **Machine Learning**. Expected to graduate by end of year 2025.
 
-- **Master Of Engineering** - Rouen (France):  
-  I graduated from INSA Rouen Normandy with a Master of Engineering in April 2018, majoring in *Applied Mathematics* and *Computer Science*.
+- Nanyang Technological University, Singapore (Aug 2014 – May 2018):  
+  I graduated from NTU with a **Bachelor of Science (Honours) in Mathematical Sciences**, Minor in **Computing and Data Analysis**.
 
 ---
 
 ## Programming Skills
 
-Proficient with: **Python, C/C++, Tensorflow, Apache Spark, Torch7, Scikit-Learn, Matlab, MongoDB, SQL, bash, Git.**
-
-Familiar with: **Java**
+| **Category**        | **Skills**                                                              |
+|---------------------|-------------------------------------------------------------------------|
+| **Languages**       | Python, SQL, C++, Matlab, R, Java, JavaScript                           |
+| **Frameworks**      | PyTorch, Scikit-learn, XGBoost, LightGBM, Keras                         |
+| **Web Technologies**| Flask, Scrapy, Puppeteer, Selenium                                      |
+| **Platforms**       | Docker, AWS Cloud, Google Cloud Platform (GCP)                          |
 
 ## Languages
 
@@ -57,12 +49,11 @@ Familiar with: **Java**
 
 ## CV
 
-Find attached the PDF version of my CVs:  
-*English version*: [CV]({{ site.url }}/download/CV_english.pdf)  
-*French version*: [CV]({{ site.url }}/download/CV_french.pdf)
+Find attached the PDF version of my resume:  
+[resume]({{ site.url }}/download/resume.pdf) 
 
-Update: 2020/01/13
+Update: 2024/12/08
 
 ## Contact me
 
-For any inquires, you can reach me via email: **_[rafael.cartenet@gmail.com](mailto:rafael.cartenet@gmail.com)_**
+For any inquires, you can reach me via email: **_[k.x.chong95@gmail.com](mailto:k.x.chong95@gmail.com)_**
