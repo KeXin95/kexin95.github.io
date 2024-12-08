@@ -2,7 +2,7 @@
 title: 'Ke Xin (Chloe)'
 layout: single
 author_profile: true
-excerpt: 'Data Scientist in Risk Industry. Exploring new career opportunities.'
+excerpt: 'Risk Data Scientist. Exploring new career opportunities.'
 header:
   overlay_image: /images/bg.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -52,9 +52,8 @@ Familiar with: **Java**
 | Language | Level  |
 |----------|--------|
 | English  | Fluent |
-| French   | Fluent |
-| Mandarin | Intermediate (preparing HSK4) |
-| Spanish  | Proficient |
+| Mandarin | Fluent |
+| Malay    | Proficient |
 
 ## CV
 
