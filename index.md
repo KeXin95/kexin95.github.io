@@ -1,10 +1,10 @@
 ---
-title: 'Rafael Cartenet'
+title: 'Ke Xin (Chloe)'
 layout: single
 author_profile: true
-excerpt: 'Data Engineer based in Shanghai. Looking for new career opportunities.'
+excerpt: 'Data Scientist in Risk Industry. Exploring new career opportunities.'
 header:
-  overlay_image: /images/paris.jpg
+  overlay_image: /images/bg.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
