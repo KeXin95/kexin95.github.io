@@ -2,7 +2,7 @@
 title: 'Ke Xin (Chloe)'
 layout: single
 author_profile: true
-excerpt: 'Data Scientist in Risk Industry. Exploring new career opportunities.'
+excerpt: '<div style="text-align: right;">Data Scientist in Risk Industry. Exploring new career opportunities.</div>'
 header:
   overlay_image: /images/bg.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
