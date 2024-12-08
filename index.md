@@ -2,7 +2,7 @@
 title: 'Chong Ke Xin'
 layout: single
 author_profile: true
-excerpt: 'Risk Data Scientist | Exploring Opportunities to Learn and Contribute'
+excerpt: 'Risk Data Scientist. Exploring Opportunities to Learn and Contribute'
 header:
   overlay_image: /images/bg.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
