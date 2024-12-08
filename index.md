@@ -1,5 +1,5 @@
 ---
-title: 'Ke Xin (Chloe)'
+title: 'Chong Ke Xin'
 layout: single
 author_profile: true
 excerpt: 'Risk Data Scientist. Exploring new career opportunities.'

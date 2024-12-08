@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rafael Cartenet"
+  name             : "Chong Ke Xin"
   avatar           : "/images/profile_picture.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Engineer"
-  location         : "Shanghai - China"
-  email            : "rafael.cartenet@gmail.com"
+  bio              : "Risk Data Scientist"
+  location         : "Singapore"
+  email            : "k.x.chong95@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -114,13 +114,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RafaelCartenet"
+  github           : "kexin95"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "rafaelcartenet" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "kexinchong" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
