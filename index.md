@@ -17,7 +17,7 @@ I'm a highly motivated and self-disciplined learner currently pursuing a **Maste
 ## Previous work experiences
 
 - **Data Scientist** - Jewel Paymentech (Singapore):  
-  At Jewel Paymentech, I focused on fast prototyping and managing the end-to-end productionization of trained models for proof-of-concept (POC) purposes, supporting new business initiatives with quick and effective solutions. My responsibilities included gathering requirements from stakeholders, developing entire systems, training text classification models, and deploying them into production. Additionally, I built an in-house interactive dashboard using Bokeh, which allowed the internal fraud team to effectively monitor and compare web content changes over time. Most of my projects were deployed using Docker, ensuring scalability and seamless integration.
+  At Jewel Paymentech, I focused on fast prototyping and managing the end-to-end productionization of trained models for proof-of-concept (POC) purposes, supporting new business initiatives with quick and effective solutions. My responsibilities included gathering requirements from stakeholders, developing entire ML systems, training text classification/anomaly detection models, and deploying them into production by containerised them into API/kafka consumer. Additionally, I built an in-house interactive dashboard using Bokeh, which allowed the internal fraud team to effectively monitor and compare web content changes over time. Most of my projects were deployed using Docker, ensuring scalability and seamless integration.
 
 ## Education
 
