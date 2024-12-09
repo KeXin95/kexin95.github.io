@@ -16,13 +16,12 @@ I'm a highly motivated and self-disciplined learner currently pursuing a **Maste
 
 ## Previous work experiences
 
-- **Machine Learning R&D Engineer** - Shanghai:  
-  I completed my end-of-study internship in Shanghai as a Machine Learning R&D Engineer for a sino-french startup called **[Mediasia-Labs](http://mediasia-labs.com)**. I have been working on *Deep-Learning* and *Advanced Algorithms* applied to Pronunciation Evaluation for language learners.
-
+- **Data Scientist** - Jewel Paymentech (Singapore):  
+  At Jewel Paymentech, I focused on fast prototyping and managing the end-to-end productionization of trained models for proof-of-concept (POC) purposes, supporting new business initiatives with quick and effective solutions. My responsibilities included gathering requirements from stakeholders, developing entire systems, training text classification models, and deploying them into production. Additionally, I built an in-house interactive dashboard using Bokeh, which allowed the internal fraud team to effectively monitor and compare web content changes over time. Most of my projects were deployed using Docker, ensuring scalability and seamless integration.
 
 ## Education
 
-- Georgia Tech, Atlanta (Jan 2015 – Present):  
+- Georgia Tech, Atlanta (Jan 2024 – Present):  
   Current student in **Master of Science in Computer Science (MSCS)**, Specialization in **Machine Learning**. Expected to graduate by end of year 2025.
 
 - Nanyang Technological University, Singapore (Aug 2014 – May 2018):  
@@ -34,10 +33,11 @@ I'm a highly motivated and self-disciplined learner currently pursuing a **Maste
 
 | **Category**        | **Skills**                                                              |
 |---------------------|-------------------------------------------------------------------------|
-| **Languages**       | Python, SQL, C++, Matlab, R, Java, JavaScript                           |
+| **Languages**       | Python, C++, SQL, Matlab, R, Java, JavaScript                           |
 | **Frameworks**      | PyTorch, Scikit-learn, XGBoost, LightGBM, Keras                         |
 | **Web Technologies**| Flask, Scrapy, Puppeteer, Selenium                                      |
 | **Platforms**       | Docker, AWS Cloud, Google Cloud Platform (GCP)                          |
+| **Databases**       | Neo4j, Postgres, MongoDB                                                |
 
 ## Languages
 
