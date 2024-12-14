@@ -21,7 +21,9 @@ header:
 
 - **Web Content Classification**: This project focuses on classifying multilingual web content using a streamlined pipeline that combines semantic embeddings and machine learning. I utilized the [BAAI/bge-m3](https://huggingface.co/BAAI/bge-m3) model to extract high-dimensional semantic embeddings from scraped web data, capturing rich contextual information. These embeddings were then classified using a Logistic Regression model, which provided efficient and accurate results.
 
-- **Anomaly Detection**: This project uses Variational Autoencoders (VAE) to detect fraud in transactional data with unsupervised learning. The VAE was trained to reconstruct latent representations of these transactions, with reconstruction errors serving as indicators of anomalous or potentially fraudulent activities. Key steps included feature extraction through domain-specific engineered features, one-hot encoding of categorical variables, and scaling numerical features such as credit card expiry dates and billing amounts. The pipeline also integrated dimensionality reduction using Truncated Singular Value Decomposition (TSVD) to improve computational efficiency, followed by normalization to ensure numerical stability for downstream processing.
+## Anomaly Detection
+
+- **Online Payment Fraud Detection**: This project uses Variational Autoencoders (VAE) to detect fraud in transactional data with unsupervised learning. The VAE was trained to reconstruct latent representations of these transactions, with reconstruction errors serving as indicators of anomalous or potentially fraudulent activities. Key steps included feature extraction through domain-specific engineered features, one-hot encoding of categorical variables, and scaling numerical features such as credit card expiry dates and billing amounts. The pipeline also integrated dimensionality reduction using Truncated Singular Value Decomposition (TSVD) to improve computational efficiency, followed by normalization to ensure numerical stability for downstream processing.
 
 
 ## IOT
