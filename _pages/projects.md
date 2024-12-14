@@ -11,7 +11,7 @@ header:
 
 ## Dashboard
 
-- In house interactive dashboard to monitor web content changes for a URL across time
+- An in-house interactive dashboard designed to monitor changes in web content over time for a specific URL. Below is a demo page shown in the screenshot:
   ![Content changes dashboard](../images/interactive_dashboard_content_changes.png)
 
 
