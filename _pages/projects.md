@@ -9,11 +9,6 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-## Dashboard
-
-- An in-house interactive dashboard designed to monitor changes in web content over time for a specific URL. Below is a demo page shown in the screenshot:
-  ![Content changes dashboard](../images/interactive_dashboard_content_changes.png)
-
 
 ## NLP / Computational linguistics
 
@@ -30,7 +25,10 @@ header:
 
 - **Snapmeter** (Company project): Designed and implemented IOT data collection worfklow + exposition worfklow in order to monitor onsite gauge meter for gas consumption with a Raspberry Pi.
 
-## Community Prediction Competition
+## Dashboard
+
+- **Web content change monitoring dashboard**: An in-house interactive dashboard designed to monitor changes in web content over time for a specific URL. Below is a demo page shown in the screenshot:
+  ![Content changes dashboard](../images/interactive_dashboard_content_changes.png)
 
 - [**COVID 19 faceshield supply monitoring**](https://lookerstudio.google.com/reporting/1aaae16a-b02e-4742-b2c7-b7d13e5f1dff): End-to-end data collection with google form from community distributor, and streamline the insights on Looker Studio to allow effective distribution of community initiative for faceshield.
 
