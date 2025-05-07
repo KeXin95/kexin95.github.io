@@ -10,13 +10,17 @@ header:
 
 # About me
 
-I'm a highly motivated and self-disciplined learner currently pursuing a **Master of Science in Computer Science (MSCS) at Georgia Institute of Technology**, specializing in **Machine Learning**. I am actively exploring research opportunities where I can learn, grow, and contribute meaningfully while building on my existing skills. My interests include applying machine learning models to mitigate financial risk, create insightful data visualizations, and develop explainable AI solutions.
+I'm currently pursuing my **Master of Science in Computer Science (MSCS) at Georgia Institute of Technology**, specializing in **Machine Learning**. My journey began with a strong motivation to address challenges in financial risk management, where I strive to develop innovative AI solutions to mitigate risks and enhance decision-making. Over time, I became deeply fascinated by the dynamic and decentralized nature of blockchain technology, which offers immense potential for secure and transparent financial systems.
+
+In parallel, I am actively exploring the interconnected nature of social media networks and transaction networks. Both systems share complex, dynamic structures that can reveal hidden patterns and relationships. By leveraging insights from social media analysis, I aim to uncover fraudulent behaviors, detect anomalies in transaction networks, and enhance the security of online payment systems.
+
+Drawing from my experience in fintech, I am passionate about advancing the field of AI-driven risk management. My work focuses on integrating data from diverse networks to build solutions that address real-world challenges in fraud detection and financial security. I am eager to contribute to research opportunities that align with these interests while continuing to grow and refine my expertise.
 
 ---
 
 ## Previous work experiences
 
-- **Senior Data Scientist** - Advance.AI (Singapore):  
+- **Senior Data Scientist** - Advance.AI (Singapore): At Advance.AI, I focused on deploying machine learning models using **AWS Elastic Container Registry (ECR)**, ensuring scalability and seamless integration into production systems. I built an automated feedback loop leveraging **AWS S3** and **AWS Glue**, enabling continuous data updates and model retraining. To enhance trust and transparency, I provided explainability for model predictions using **LIME** and **SHAP**, helping stakeholders understand key decision factors. Additionally, I developed pipelines to monitor model performance and integrated real-time alerts into the company's communication platform, **Lark**, ensuring proactive issue resolution and improved operational efficiency.
   
 
 - **Data Scientist** - Jewel Paymentech (Singapore):  
