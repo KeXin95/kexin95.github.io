@@ -3,11 +3,11 @@ main:
   - title: "Projects"
     url: /projects/
   - title: "Blog"
-    url: https://medium.com/@k.x.chong95
+    url: /blog/
   - title: "About"
     url: https://kexin95.github.io
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Medium"
+    url: https://medium.com/@k.x.chong95
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
