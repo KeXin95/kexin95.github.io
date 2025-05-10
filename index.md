@@ -10,29 +10,52 @@ header:
 
 # About me
 
-I'm currently pursuing my **Master of Science in Computer Science (MSCS) at Georgia Institute of Technology**, specializing in **Machine Learning**. My journey began with a strong motivation to address challenges in financial risk management, where I strive to develop innovative AI solutions to mitigate risks and enhance decision-making. Over time, I became deeply fascinated by the dynamic and decentralized nature of blockchain technology, which offers immense potential for secure and transparent financial systems.
-
-In parallel, I am actively exploring the interconnected nature of social media networks and transaction networks. Both systems share complex, dynamic structures that can reveal hidden patterns and relationships. By leveraging insights from social media analysis, I aim to uncover fraudulent behaviors, detect anomalies in transaction networks, and enhance the security of online payment systems.
-
-Drawing from my experience in fintech, I am passionate about advancing the field of AI-driven risk management. My work focuses on integrating data from diverse networks to build solutions that address real-world challenges in fraud detection and financial security. I am eager to contribute to research opportunities that align with these interests while continuing to grow and refine my expertise.
-
+I am a Master of Science in Computer Science (MSCS) student at Georgia Institute of Technology, specializing in Machine Learning, with a strong focus on applying AI to financial risk management and security. My work involves developing innovative AI solutions to mitigate risks and enhance decision-making in fintech. Given my interest in enhancing security and transparency in financial systems, I am also exploring the potential of blockchain technology and how AI can be leveraged within it for risk management. I am eager to contribute to research opportunities in these areas.
 ---
+
+## Teaching Experience
+
+- **Graduate Teaching Assistant** - Georgia Institute of Technology (Apr 2025 – Present):  
+  Assisted in teaching CS7280 Network Sciences, where I conducted tutorials, graded assignments, mentored students.
 
 ## Previous work experiences
 
-- **Senior Data Scientist** - Advance.AI (Singapore): At Advance.AI, I focused on deploying machine learning models using **AWS Elastic Container Registry (ECR)**, ensuring scalability and seamless integration into production systems. I built an automated feedback loop leveraging **AWS S3** and **AWS Glue**, enabling continuous data updates and model retraining. To enhance trust and transparency, I provided explainability for model predictions using **LIME** and **SHAP**, helping stakeholders understand key decision factors. Additionally, I developed pipelines to monitor model performance and integrated real-time alerts into the company's communication platform, **Lark**, ensuring proactive issue resolution and improved operational efficiency.
-  
+- **Senior Data Scientist** - Advance.AI (Singapore): 
+  - Deployed machine learning models using **AWS ECR**, increasing deployment efficiency by 15%.    
+  - Built an automated feedback loop with **AWS S3** and **AWS Glue**, reducing model retraining cycle from months to weeks.    
+  - Provided explainability for model predictions using LIME and SHAP, enhancing stakeholder trust and facilitating model adoption by 20%.    
+  - Developed pipelines to monitor model performance and integrated real-time alerts into Lark, resulting in a 25% reduction in critical incident response time.    
+
 
 - **Data Scientist** - Jewel Paymentech (Singapore):  
-  At Jewel Paymentech, I focused on fast prototyping and managing the end-to-end productionization of trained models for proof-of-concept (POC) purposes, supporting new business initiatives with quick and effective solutions. My responsibilities included **gathering requirements from stakeholders, developing entire ML systems, training text classification/anomaly detection models, and deploying them into production by containerised them into API/kafka consumer**. Additionally, I **built an in-house interactive dashboard using Bokeh**, which allowed the internal fraud team to effectively monitor and compare web content changes over time. Most of my projects were deployed using Docker, ensuring scalability and seamless integration.
+  - Led fast prototyping and end-to-end productionization of trained models for POCs, accelerating new business initiatives by 30%.    
+  - Gathered requirements, developed full ML systems, and trained text classification/anomaly detection models, deploying them as APIs/Kafka consumers.    
+  - Built an in-house interactive dashboard using **Bokeh**, enabling the fraud team to monitor web content changes and reduce manual review time from weeks to days.
+  - Containerized all projects using Docker, ensuring seamless scalability and portability.    
+
 
 ## Education
 
 - Georgia Tech, Atlanta (Jan 2025 – Present):  
-  Current student in **Master of Science in Computer Science (MSCS)**, Specialization in **Machine Learning**. Expected to graduate by end of year 2025.
+  - Master of Science in Computer Science (MSCS), Specialization: Machine Learning.
+  - Expected Graduation: December 2025
+  - Relevant Coursework: 
+    1. CS7643 Deep Learning
+    2. CS7280 Network Sciences
+    3. CS7641 Machine Learning
+    4. CSE6242 Data and Visualisation Analysis
+    5. CSE6140 Computational Science and Engineering Algorithms
+    6. CS8803 Introduction to Blockchain
 
 - Nanyang Technological University, Singapore (Aug 2014 – May 2018):  
-  I graduated from NTU with a **Bachelor of Science (Honours) in Mathematical Sciences**, Minor in **Computing and Data Analysis**.
+  - Bachelor of Science (Honours) in Mathematical Sciences, Minor: Computing and Data Analysis.
+  - Relevant Coursework:
+    1. Algorithms and Computing I, II, III (MH1401, MH1402, MH2401)    
+    2. Introduction to Computational Thinking (CE1003)    
+    3. Probability and Introduction to Statistics (MH2500)    
+    4. Stochastic Processes (MH3512)    
+    5. Introduction to Data Science (CE9010)    
+    6. Data Structures (CZ1007)    
 
 ---
 
