@@ -1,6 +1,6 @@
 ---
 title: 'Blog'
-layout: home
+layout: single
 permalink: /blog/
 author_profile: true
 excerpt: 'Here you will find articles that I write about projects, news or to keep track of what I have been doing.'
