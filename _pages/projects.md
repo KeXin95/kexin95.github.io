@@ -13,14 +13,14 @@ header:
 
 I thrive on tackling a diverse range of projects across multiple domains, allowing me to continuously learn and apply my skills in innovative ways. My project experience is primarily built upon four key pillars:
 
-1.  **Multimodal & Language Processing**: Developing solutions for text analysis, understanding semantics, processing multiple modalities (like image and text), and building classification models.
-    * *Skills*: Text Analysis, Semantic Embeddings (e.g., BAAI/bge-m3), Multimodal Classification (e.g., CLIP), Image & Text Feature Extraction, Text Preprocessing, Model Fine-tuning.
-2.  **Data Visualization & Dashboards**: Crafting interactive dashboards and visualization tools to effectively communicate data-driven insights.
-    * *Skills*: Dashboard Development, Data Visualization (e.g., D3.js, Looker Studio), End-to-End Data Pipelines for Reporting.
-3.  **Web3 & Blockchain**: Exploring and implementing solutions leveraging blockchain technology and decentralized systems.
-    * *Skills*: Blockchain Technology, Decentralized Systems, Smart Contract Development (Solidity).
-4.  **Machine Learning & Anomaly Detection**: Designing and implementing machine learning models to identify unusual patterns, with a focus on fraud detection in transactional and other data types.
+1.  **[Multimodal & Language Processing](#multimodal--language-processing)**: Developing solutions for text analysis, understanding semantics, processing multiple modalities (like image and text), and building classification models.
+    * *Skills*: Text Analysis, Semantic Embeddings (e.g., BAAI/bge-m3), Multimodal Classification (e.g., CLIP), Image & Text Feature Extraction, Text Preprocessing, Model Fine-tuning.  
+2.  **[Machine Learning & Anomaly Detection](#anomaly-detection)**: Designing and implementing machine learning models to identify unusual patterns, with a focus on fraud detection in transactional and other data types.
     * *Skills*: Anomaly Detection, Fraud Detection, Unsupervised Learning (e.g., Variational Autoencoders), Feature Engineering, Dimensionality Reduction (e.g., TSVD), Supervised Learning (e.g., Logistic Regression).
+3.  **[Data Visualization & Dashboards](#dashboards--data-visualization)**: Crafting interactive dashboards and visualization tools to effectively communicate data-driven insights. 
+    * *Skills*: Dashboard Development, Data Visualization (e.g., D3.js, Looker Studio), End-to-End Data Pipelines for Reporting.  
+4.  **[Web3 & Blockchain](#web3--blockchain)**: Exploring and implementing solutions leveraging blockchain technology and decentralized systems.
+    * *Skills*: Blockchain Technology, Decentralized Systems, Smart Contract Development (Solidity).  
 
 Below is a selection of projects that highlight my contributions and expertise across these areas.
 
@@ -104,3 +104,20 @@ Below is a selection of projects that highlight my contributions and expertise a
         <img src="../images/covid-looker-studio-p1.png" alt="Page1" style="width: 45%;">
         <img src="../images/covid-looker-studio-p2.png" alt="Page2" style="width: 45%;">
         </div>
+
+* **[Web3 & Blockchain]()**
+* **Meme Merchant Contract (ShibaPayment)**
+    * **Objective**: Developed a Solidity smart contract to manage and track payments, potentially for digital items or meme-related content, associating each transaction with a unique token ID and an image URL (e.g., IPFS link).
+    * **Features**:
+        * Allows users to make payments (e.g., in ETH/native currency) to the contract.
+        * Records detailed payment information including sender, amount, a unique transaction token ID, status (e.g., processed/unprocessed), and an image URL.
+        * Enables the contract owner to update the image URL and status associated with each payment.
+        * Implements access control for administrative functions (e.g., status updates, withdrawals).
+        * Tracks payment history per user and maintains a list of all transacting users.
+        * Provides functions to query payment counts, specific payment details, and a user's entire payment history.
+        * Owner can withdraw accumulated funds from the contract.
+        * Emits events for key actions like payment receipt and updates to payment status or image URL.
+    * **Technologies**: Solidity (`^0.5.0`), Ethereum Virtual Machine (EVM), IPFS (pinata).
+    * **Repository Link**: [View Code on GitHub](https://github.com/lowweihong/meme-merchant-contract)
+    * *Screenshot:*
+        ![Meme-merchant](../images/meme-demo.png)
