@@ -2,7 +2,7 @@
 title: 'Chong Ke Xin'
 layout: single
 author_profile: true
-excerpt: 'Data Scientist | Deriving Risk Insights & Payment Intelligence from Social and Transactional Data'
+excerpt: 'Data Scientist \| Deriving Risk Insights & Payment Intelligence from Social and Transactional Data'
 header:
   overlay_image: /images/bg.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -10,7 +10,7 @@ header:
 
 ## About me
 
-Data Scientist | Deriving Risk Insights & Payment Intelligence from Social and Transactional Data
+Data Scientist \| Deriving Risk Insights & Payment Intelligence from Social and Transactional Data
 
 ---
 I am a Master of Science in Computer Science (MSCS) student at Georgia Institute of Technology, specializing in Machine Learning, with a strong focus on applying AI to financial risk management and security. My work involves developing innovative AI solutions to mitigate risks and enhance decision-making in fintech. Given my interest in enhancing security and transparency in financial systems, I am also exploring the potential of blockchain technology and how AI can be leveraged within it for risk management. I am eager to contribute to research opportunities in these areas.
