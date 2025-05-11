@@ -74,6 +74,7 @@ Our research yielded several key findings regarding the performance and robustne
 * **Adversarial Training Enhances Robustness and Generalization:** Adversarially training our CLIP (Concat) model with a 10% subset of augmented data significantly improved its resilience. The success rate of combined attacks dropped (e.g., by ~6% on the test set), and the AUC drop was reduced by about 5 times. Interestingly, this adversarial training also improved the model's performance on the *original, non-adversarial* dev and test datasets (e.g., test AUC increased from 0.785 to 0.804, and accuracy from 73.3% to 75.2%), suggesting it helped the model learn more robust and generalizable features.
 
 **Model Performance Highlights (Top Models from Study):**
+
 | Model Configuration        | Dev-unseen AUC | Dev-unseen ACC | Test-unseen AUC | Test-unseen ACC |
 |----------------------------|----------------|----------------|-----------------|-----------------|
 | Hate-CLIPper (Benchmark)   | 0.811          | 76.7%          | 0.824           | 75.6%           |

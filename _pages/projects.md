@@ -105,7 +105,7 @@ Below is a selection of projects that highlight my contributions and expertise a
         <img src="../images/covid-looker-studio-p2.png" alt="Page2" style="width: 45%;">
         </div>
 
-* **[Web3 & Blockchain]()**
+* **Web3 & Blockchain**
 * **Meme Merchant Contract (ShibaPayment)**
     * **Objective**: Developed a Solidity smart contract to manage and track payments, potentially for digital items or meme-related content, associating each transaction with a unique token ID and an image URL (e.g., IPFS link).
     * **Features**:
