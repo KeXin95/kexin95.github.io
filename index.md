@@ -84,7 +84,7 @@ I am a Master of Science in Computer Science (MSCS) student at Georgia Institute
 Find attached the PDF version of my resume:  
 [resume]({{ site.url }}/download/resume.pdf) 
 
-Update: 2024/12/08
+Update: 2025/06/30
 
 ## Contact me
 
